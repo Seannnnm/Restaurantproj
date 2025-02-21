@@ -18,7 +18,7 @@
                     <v-card>
                         <v-card color="amber-darken-2">
                             <v-card-item>
-                                <v-card-title>Cocktails</v-card-title>
+                                <v-card-title>Drink Tasting</v-card-title>
 
                                 <v-card-subtitle>This is a card subtitle</v-card-subtitle>
                             </v-card-item>
@@ -30,7 +30,7 @@
                         </v-card>
                         <v-card color="amber-darken-2">
                             <v-card-item>
-                            <v-card-title>Promotions</v-card-title>
+                            <v-card-title>Lounging</v-card-title>
 
                             <v-card-subtitle>This is a card subtitle</v-card-subtitle>
                             </v-card-item>
@@ -78,7 +78,7 @@
                     <v-card>
                         <v-card color="amber-darken-2">
                     <v-card-item>
-                    <v-card-title>Promotions</v-card-title>
+                    <v-card-title>Parties</v-card-title>
 
                     <v-card-subtitle>This is a card subtitle</v-card-subtitle>
                     </v-card-item>
